@@ -44,32 +44,6 @@
     ]
   },
   {
-    "Id": "68357b4a6d966c2c14684f40",
-    "Name": "Daemon Slayer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "68357b4a6d966c2c14684f44"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b4a6d966c2c1468537d",
-    "Name": "Dragon Slayer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "68357b4a6d966c2c14685381"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
     "Id": "68357b4a6d966c2c1468578e",
     "Name": "King",
     "Type": "Unit",
@@ -239,19 +213,6 @@
     "Formation": 0
   },
   {
-    "Id": "68357b4d6d966c2c1468afdc",
-    "Name": "Dwarf Cart",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Chariot"
-    },
-    "BasicProfileIds": [
-      "68357b4d6d966c2c1468afdf"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
     "Id": "68357b4d6d966c2c1468b3a9",
     "Name": "Grudge Thrower",
     "Type": "Unit",
@@ -304,32 +265,6 @@
       "68357b4f6d966c2c14690070"
     ],
     "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b506d966c2c14691908",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "68357b506d966c2c1469190e"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357b506d966c2c14691d14",
-    "Name": "Goblin-Hewer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "War Machine"
-    },
-    "BasicProfileIds": [
-      "68357b506d966c2c14691d1c"
-    ],
-    "DefaultFront": 1,
     "Formation": 0
   },
   {
