@@ -173,7 +173,7 @@
     "DefaultFront": 5,
     "Formation": 0
   },
-    {
+  {
     "Id": "units_1779483331838",
     "Name": "Astromancer",
     "Type": "Unit",
@@ -195,5 +195,18 @@
     "Attributes": {
       "type": "Heavy Cavalry"
     }
+  },
+  {
+    "Id": "68357b496d966c2c14684736",
+    "Name": "Ungrim Ironfist",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Infantry"
+    },
+    "BasicProfileIds": [
+      "68357b496d966c2c1468473a"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
   }
 ]
