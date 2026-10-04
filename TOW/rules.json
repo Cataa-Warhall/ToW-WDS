@@ -12789,5 +12789,17 @@
     "Name": "Flail of Wrecks",
     "Type": "Rule",
     "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Armour Bane (1), Magical Attacks, Multiple Wounds (2)\nNote: The Strength modifier and Armour Bane (1) special rule apply only against enemy models the wielder charged this turn. Should the wielder make any rolls To Wound of a natural 1 during the Combat phase, their Initiative is reduced by 1 (to a minimum of 1) for the remainder of the game."
+  },
+  {
+    "Id": "rules_1791130943100",
+    "Name": "Sacrifice",
+    "Type": "Rule",
+    "Description": "This special rule can only be used by a Cult Magister that has joined a unit. Before making a Casting roll, this model may make a sacrifice. One model belonging to this model's unit is immediately removed from play as a casualty. This model may then modify their Casting roll by adding the Wounds characteristic of the sacrificed model to the result.\n\nNote that this is a modification to the result of a roll - it does not negate a roll of a natural double 1."
+  },
+  {
+    "Id": "rules_1791130952245",
+    "Name": "Thralls of Chaos",
+    "Type": "Rule",
+    "Description": "A Cult Magister cannot be your General and can only join a unit with the Dark Pawns special rule."
   }
 ]
