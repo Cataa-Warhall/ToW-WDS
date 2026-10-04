@@ -1,5 +1,5 @@
 {
-  "version": 86,
+  "version": 87,
   "files": [
     "modifiedprofile.json",
     "dummylist.json",
@@ -217,6 +217,10 @@
     "Warriors of Chaos - Heralds of Darkness/statlines.json",
     "Warriors of Chaos - Heralds of Darkness/profiles.json",
     "Warriors of Chaos - Heralds of Darkness/modifiedunit.json",
-    "Warriors of Chaos - Heralds of Darkness/options.json"
+    "Warriors of Chaos - Heralds of Darkness/options.json",
+    "Warriors of Chaos - Hordes of Chaos/units.json",
+    "Warriors of Chaos - Hordes of Chaos/profiles.json",
+    "Warriors of Chaos - Hordes of Chaos/statlines.json",
+    "Warriors of Chaos - Hordes of Chaos/equipment.json"
   ]
 }
