@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "profiles_1791130294444",
+    "Name": "Cult Magister",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267",
+        "Info": ""
+      },
+      {
+        "Id": "e4ba8de4-c0b4-4cc6-a567-c1220337a3a0",
+        "Info": ""
+      },
+      {
+        "Id": "d21c1fc9-976b-410f-b2d6-634c0beab7b1",
+        "Info": ""
+      },
+      {
+        "Id": "options_1780075341899",
+        "Info": ""
+      },
+      {
+        "Id": "statlines_1791130438842",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1791130943100",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1791130952245",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1791131005938",
+        "Info": ""
+      }
+    ]
+  }
+]
