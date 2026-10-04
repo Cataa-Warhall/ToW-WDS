@@ -1809,7 +1809,7 @@
     "Id": "71d4-7ac2-bcf6-a9b9",
     "Name": "’It & Run",
     "Type": "Rule",
-    "Description": "Description: With a barked command from their leader, Kiknik’s riders fall back, ready to charge off in pursuit of new prey.\nShould they win a round of combat, Kiknik and any Goblin Wolf Rider Mob he has joined may choose to Fall Back in Good Order rather than making a follow up or pursuit move.\n"
+    "Description": "Description: With a barked command from their leader, Kiknik’s riders fall back, ready to charge off in pursuit of new prey.\nShould they win a round of combat, Kiknik and any Goblin Wolf Rider Mob he has joined may choose to Fall Back in Good Order rather than making a follow up or pursuit move. \n"
   },
   {
     "Id": "296f-b05b-2e45-909d",
@@ -12783,5 +12783,11 @@
     "Name": "Razor Tusks",
     "Type": "Rule",
     "Description": "During a turn in which it charged, the Armour Piercing characteristic of a boar’s tusks (hand weapon) is improved by 1."
+  },
+  {
+    "Id": "rules_1791129669924",
+    "Name": "Flail of Wrecks",
+    "Type": "Rule",
+    "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Armour Bane (1), Magical Attacks, Multiple Wounds (2)\nNote: The Strength modifier and Armour Bane (1) special rule apply only against enemy models the wielder charged this turn. Should the wielder make any rolls To Wound of a natural 1 during the Combat phase, their Initiative is reduced by 1 (to a minimum of 1) for the remainder of the game."
   }
 ]
